@@ -1,0 +1,41 @@
+body{
+    background-image: url('../img/fondo/1.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+}
+
+h1{
+    font-family: 'Bangers', cursive;
+    font-size: 50px;
+    /* Ajusta el tamaño según lo necesites */
+    font-weight: bold;
+    color: #ffeb3b;
+    /* Un color amarillo similar al logo de Dragon Ball */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    /* Sombra para darle más impacto */
+}
+h3{
+    color: #ffeb3b;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+input{
+  color: rgb(255, 255, 255);         /* Cambia el color */
+  opacity: 1;         /* Asegura que el color no se vea transparente */
+}
+
+label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(130, 30, 166);
+}
+#username_py1{
+    background-color: rgba(140, 6, 6, 0.453);
+}
+
+#username_py2{
+    background-color: rgba(8, 8, 181, 0.456);
+}
